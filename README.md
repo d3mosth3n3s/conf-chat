@@ -1,4 +1,4 @@
-# P2P Chat
+# Betterboxd
 
 A decentralized movie-themed chat program written in Python 3 using only the standard library.
 
